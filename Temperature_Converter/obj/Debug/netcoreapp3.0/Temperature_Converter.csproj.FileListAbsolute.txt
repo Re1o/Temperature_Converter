@@ -1,0 +1,11 @@
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\bin\Debug\netcoreapp3.0\Temperature_Converter.exe
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\bin\Debug\netcoreapp3.0\Temperature_Converter.deps.json
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\bin\Debug\netcoreapp3.0\Temperature_Converter.runtimeconfig.json
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\bin\Debug\netcoreapp3.0\Temperature_Converter.runtimeconfig.dev.json
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\bin\Debug\netcoreapp3.0\Temperature_Converter.dll
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\bin\Debug\netcoreapp3.0\Temperature_Converter.pdb
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\obj\Debug\netcoreapp3.0\Temperature_Converter.csprojAssemblyReference.cache
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\obj\Debug\netcoreapp3.0\Temperature_Converter.AssemblyInfoInputs.cache
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\obj\Debug\netcoreapp3.0\Temperature_Converter.AssemblyInfo.cs
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\obj\Debug\netcoreapp3.0\Temperature_Converter.dll
+C:\Users\Reio\source\repos\Temperature_Converter\Temperature_Converter\obj\Debug\netcoreapp3.0\Temperature_Converter.pdb
